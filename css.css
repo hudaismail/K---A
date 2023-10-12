@@ -191,7 +191,7 @@ body{
 .cont2 .contright{
 	
 	height:250px;
-	background:url('image/men shirt9.jpg');
+	background:url('image/men shirt7.jpg');
 	border-radius:20px;
 	padding:20px;
 	border:5px solid #FFF9C4;
@@ -255,12 +255,8 @@ body{
 	width:40px;
 	font-size:20px;
 	line-height:40px;
-	border:2px solid white;
-	border-radius:50%;
 	margin:40px 5px 0;
 	color:white;
-	background:;
-	cursor:pointer;
 	transition:0.5s;
 }
 
@@ -289,6 +285,7 @@ hr{
 	text-align:center;
 	line-height:50px;
 }
+
 
 
 
